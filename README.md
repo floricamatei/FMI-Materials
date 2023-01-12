@@ -5,7 +5,7 @@
 | Semester | Discipline                                       | C | S | L | P | FE | Credits |
 |----------|--------------------------------------------------|---|---|---|---|----|---------|
 | I        | Structuri algebrice în informatică               | 2 | 2 | - | - | E  | 4       |
-| I        | Calcul diferențial și integral                   | 3 | 2 | - | - | E  | 6       |
+| I        | [Calcul diferențial și integral (CDI)](https://github.com/Andrei137/FMI-Materials/tree/master/Year%20I/Semester%20I/Calcul%20Diferential%20Si%20Integral)                   | 3 | 2 | - | - | E  | 6       |
 | I        | Logică matematică și computațională              | 2 | 2 | - | - | E  | 5       |
 | I        | Programarea algoritmilor                         | 2 | 1 | 1 | - | E  | 5       |
 | I        | Arhitectura sistemelor de calcul                 | 2 | 1 | 1 | - | V  | 4       |
