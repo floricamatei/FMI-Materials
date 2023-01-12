@@ -1,0 +1,2 @@
+Nota Finala = 80% Examen + 20% Seminar
+Promovare : Nota Finala >= 5
