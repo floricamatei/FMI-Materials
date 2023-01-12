@@ -1,0 +1,2 @@
+Nota Finala = 100% Referat || 100% Examen
+Promovare : (Nota Referat >= 7 && Prezente >= Nr Seminarii / 2) || Nota Examen >= 5
