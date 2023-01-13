@@ -1,3 +1,0 @@
-Nota Finala = 60% Examen + 20% Colocviu + 10% Teste Laborator + 10% Tema Laborator + 0.5 puncte extra Proiect 1 + 0.5 puncte extra Proiect 2
-Promovare Laborator: Media Teste Laborator >= 5 && Nota Tema Laborator >= 5 && Nota Colocviu >= 5
-Promovare : Nota Examen >= 5
