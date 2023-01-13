@@ -22,11 +22,11 @@
 | II       | Educație fizică                                  | - | 1 | - | - | V  | 2       |
 
 ## Credits
-- https://drive.google.com/drive/folders/1gVY_3PJX5JIxMajo-q_55GC8_rCP-rfB
-- https://drive.google.com/drive/folders/1i8YQxKu5huQiK_azSFhP_ofRsa4ywluX
-- https://github.com/danteck2/fmi
-- https://github.com/DariusBuhai/FMI-Unibuc
-- https://github.com/DavidPatranjel/LearningAtFMI
-- https://github.com/DimaOanaTeodora/Uni-Work-2019-2022
-- https://github.com/DLarisa/FMI-Materials-BachelorDegree-UniBuc
-- https://unibucro0-my.sharepoint.com/personal/maria-ilinca_nechita_s_unibuc_ro/_layouts/15/onedrive.aspx?csf=1&web=1&e=8OIEty&cid=6ce410f4%2Dbc4c%2D4997%2Da1c7%2Dff41e8d53757&FolderCTID=0x01200017D87CFB36FD7640869729B7206EA64E&id=%2Fpersonal%2Fmaria%2Dilinca%5Fnechita%5Fs%5Funibuc%5Fro%2FDocuments%2FSemestrul%20I%2D%20materiale
+- [Drive Nimara Dani-Gabriel](https://drive.google.com/drive/folders/1gVY_3PJX5JIxMajo-q_55GC8_rCP-rfB)
+- [Drive Daria Broscoteanu](https://drive.google.com/drive/folders/1i8YQxKu5huQiK_azSFhP_ofRsa4ywluX)
+- [Github danteck2](https://github.com/danteck2/fmi)
+- [Github DariusBuhai](https://github.com/DariusBuhai/FMI-Unibuc)
+- [Github DavidPatranjel](https://github.com/DavidPatranjel/LearningAtFMI)
+- [Github DimaOanaTeodora](https://github.com/DimaOanaTeodora/Uni-Work-2019-2022)
+- [Github DLarisa](https://github.com/DLarisa/FMI-Materials-BachelorDegree-UniBuc)
+- [OneDrive Maria Ilinca Nechita](https://unibucro0-my.sharepoint.com/personal/maria-ilinca_nechita_s_unibuc_ro/_layouts/15/onedrive.aspx?csf=1&web=1&e=8OIEty&cid=6ce410f4%2Dbc4c%2D4997%2Da1c7%2Dff41e8d53757&FolderCTID=0x01200017D87CFB36FD7640869729B7206EA64E&id=%2Fpersonal%2Fmaria%2Dilinca%5Fnechita%5Fs%5Funibuc%5Fro%2FDocuments%2FSemestrul%20I%2D%20materiale)
