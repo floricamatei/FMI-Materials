@@ -10,7 +10,7 @@
 | I        | [Programarea algoritmilor (PA)](https://github.com/Andrei137/FMI-Materials/tree/master/Year%20I/Semester%20I/Programarea%20Algorimilor)                         | 2 | 1 | 1 | - | E  | 5       |
 | I        | Arhitectura sistemelor de calcul                 | 2 | 1 | 1 | - | V  | 4       |
 | I        | [Gândire critică și etică academică în informatică (GCEA)](https://github.com/Andrei137/FMI-Materials/tree/master/Year%20I/Semester%20I/Gandire%20Critica%20Si%20Etica%20Academica)| 2 | 1 | - | 1 | V  | 4       |
-| I        | Competențe de bază într-o limbă străină          | - | 1 | - | - | V  | 2       |
+| I        | [Competențe de bază într-o limbă străină (Engleza)](https://github.com/Andrei137/FMI-Materials/tree/master/Year%20I/Semester%20I/Engleza)          | - | 1 | - | - | V  | 2       |
 | I        | Educație fizică*                                 | - | 1 | - | - | V  | 2       |
 | II       | Geometrie și algebră liniară                     | 2 | 2 | - | - | E  | 4       |
 | II       | Baze de date                                     | 2 | - | 2 | - | E  | 5       |
