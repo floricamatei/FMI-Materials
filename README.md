@@ -24,6 +24,7 @@
 ## Credits
 - [Drive Nimara Dani-Gabriel](https://drive.google.com/drive/folders/1gVY_3PJX5JIxMajo-q_55GC8_rCP-rfB)
 - [Drive Daria Broscoteanu](https://drive.google.com/drive/folders/1i8YQxKu5huQiK_azSFhP_ofRsa4ywluX)
+- [Github dariabroscoteanu](https://github.com/dariabroscoteanu/Algorithm-Programming)
 - [Github danteck2](https://github.com/danteck2/fmi)
 - [Github DariusBuhai](https://github.com/DariusBuhai/FMI-Unibuc)
 - [Github DavidPatranjel](https://github.com/DavidPatranjel/LearningAtFMI)
