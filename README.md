@@ -30,4 +30,4 @@
 - [Github DavidPatranjel](https://github.com/DavidPatranjel/LearningAtFMI)
 - [Github DimaOanaTeodora](https://github.com/DimaOanaTeodora/Uni-Work-2019-2022)
 - [Github DLarisa](https://github.com/DLarisa/FMI-Materials-BachelorDegree-UniBuc)
-- [OneDrive Maria Ilinca Nechita](https://unibucro0-my.sharepoint.com/personal/maria-ilinca_nechita_s_unibuc_ro/_layouts/15/onedrive.aspx?csf=1&web=1&e=8OIEty&cid=6ce410f4%2Dbc4c%2D4997%2Da1c7%2Dff41e8d53757&FolderCTID=0x01200017D87CFB36FD7640869729B7206EA64E&id=%2Fpersonal%2Fmaria%2Dilinca%5Fnechita%5Fs%5Funibuc%5Fro%2FDocuments%2FSemestrul%20I%2D%20materiale)
+- [OneDrive Maria Ilinca Nechita](https://unibucro0-my.sharepoint.com/personal/maria-ilinca_nechita_s_unibuc_ro/_layouts/15/onedrive.aspx?csf=1&web=1&e=8OIEty&cid=6ce410f4%2Dbc4c%2D4997%2Da1c7%2Dff41e8d53757&FolderCTID=0x01200017D87CFB36FD7640869729B7206EA64E)
