@@ -1,3 +1,0 @@
-Nota Finala = 50% Colocviu + 50% Examen + 1 punct extra Seminar
-Promovare Laborator : Nota Colocviu >= 5
-Promovare : Nota Finala >= 5
