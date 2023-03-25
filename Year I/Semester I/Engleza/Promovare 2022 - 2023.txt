@@ -1,2 +1,0 @@
-Nota Finala = 30% Prezenta + 30% Proiect + 40% Examen
-Promovare : Nota Finala >= 5
