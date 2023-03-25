@@ -1,3 +1,0 @@
-Nota Finala = 12 puncte Examen + 3 puncte Colocviu + 1 punct extra Seminar
-Promovare Laborator : Nota Colocviu >= 1 
-Promovare : Nota Examen >= 3 && Nota Finala >= 5
