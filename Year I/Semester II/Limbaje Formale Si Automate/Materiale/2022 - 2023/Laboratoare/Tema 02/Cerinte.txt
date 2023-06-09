@@ -1,0 +1,25 @@
+Tema 2 LFA  
+
+
+Cititi un automat nedeterminist (NFA) din fisier si transformati-l intr-un automat determinist (DFA) care accepta exact acelasi limbaj. 
+Minimizati un DFA (creati un DFA nou, cu numar minim de stari, care accepta acelasi limbaj ca DFA-ul initial primit ca input).
+
+
+
+
+Linkuri utile:
+    Conversie NFA to DFA:
+        Conversion of NFA to DFA
+    Minimizare:
+        https://en.wikipedia.org/wiki/DFA_minimization      https://www.youtube.com/watch?v=0XaGAkY09Wc&t=781s&ab_channel=NesoAcademy
+
+
+
+
+Pentru punctaj maxim folositi Programare Orientata pe Obiecte:
+    -definiti clasa automat
+    -din ea se vor mosteni clasele DFA si NFA
+    -fără variablie globale
+
+
+Observatie: la tema aceasta nu mai are importanță dacă programul poate citi din fișier doar stări consecutive sau dacă acceptă și stări neconsecutive (cum era în tema anterioară, cu stările 10, 20, 30, 40, etc.)

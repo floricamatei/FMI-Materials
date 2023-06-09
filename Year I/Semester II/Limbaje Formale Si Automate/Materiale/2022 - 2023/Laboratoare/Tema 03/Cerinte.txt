@@ -1,0 +1,5 @@
+Implementați algoritmul CYK, care primește o gramatică independentă de context care este deja în forma normală Chomsky și returneză dacă un anumit cuvânt (citit tot din fișier, să zicem) aparține sau nu limbajului definit de gramatica respectivă. 
+Citiți din fișier un automat cu stivă (Pushdown) și verificați dacă un cuvânt (citit tot din fișier) aparține limbajului definit de automat. Puteți alege voi dacă este determinist sau nedeterminist.
+(bonus) implementați algoritmul Min-Max pentru jocul Gomoku (5 in a row).
+
+Deadline: până la laboratorul din săptămâna 11 pentru posibilitatea de a lua nota 12, sau până la laboratorul din săptămâna 13 pentru cel mult nota 10. Contează când trimiteți tema, cu când o prezentați.
