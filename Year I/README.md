@@ -15,5 +15,5 @@
 | II       | [Limbaje Formale Si Automate (LFA)](https://github.com/Andrei137/FMI-Materials/tree/master/Year%20I/Semester%20II/Limbaje%20Formale%20Si%20Automate)                      | 2 | 1 | 1 | - | E  | 4       |
 | II       | [Programare Orientata Pe Obiecte (POO)](https://github.com/Andrei137/FMI-Materials/tree/master/Year%20I/Semester%20II/Programare%20Orientata%20Pe%20Obiecte)                  | 2 | 1 | 2 | - | E  | 6       |
 | II       | [Tehnici Web (TW)](https://github.com/Andrei137/FMI-Materials/tree/master/Year%20I/Semester%20II/Tehnici%20Web)                                      | 2 | - | 1 | 1 | V  | 4       |
-| II       | [Competente Specifice Intr-o Limba Straina (Engleza)](https://github.com/Andrei137/FMI-Materials/tree/master/Year%20I/Semester%20II/Engleza)        | - | 1 | - | - | V  | 2       |
+| II       | [Competente Specifice Intr-o Limba Straina (Engleza)](https://github.com/Andrei137/FMI-Materials/tree/master/Year%20I/Semester%20II/Engleza)        | - | 1 | - | - | V  | 2       | 
 | II       | Educatie Fizica                                  | - | 1 | - | - | V  | 2       |
